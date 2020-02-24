@@ -2,6 +2,10 @@
 body{
 font-family: 'Raleway', sans-serif;
 }
+.Justaheading{
+font-size:75px;
+color:#00AEFF;
+}
 h1{
 font-style:oblique;
 font-size:50px;
