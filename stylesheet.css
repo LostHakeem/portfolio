@@ -32,3 +32,11 @@ color:#FF0000
   text-decoration: none;
   font-size: 16px;
 }
+.navbar a:hover{
+  background-color: #90F9B9
+  color:#000000;
+}
+.navbar a.active{
+  background-color: #FFFFFF;
+  color:#000000;
+}
